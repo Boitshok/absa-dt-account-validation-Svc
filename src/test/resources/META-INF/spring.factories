@@ -1,0 +1,5 @@
+org.springframework.test.context.ContextCustomizerFactory = ug.co.absa.africa.\
+    validate.config.TestContainersSpringContextCustomizerFactory,ug.co.absa.\
+    africa.validate.config.SqlTestContainersSpringContextCustomizerFactory,ug.\
+    co.absa.africa.validate.config.\
+    RedisTestContainersSpringContextCustomizerFactory
